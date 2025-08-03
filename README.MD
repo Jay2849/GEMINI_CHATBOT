@@ -2,7 +2,7 @@
 
 A simple and interactive chatbot application that utilizes the Gemini API to provide natural language processing capabilities. This project allows users to engage in conversations with an AI model, making it suitable for various applications such as customer support, information retrieval, and more.
 
-("C:\Users\Admin\Pictures\Screenshots\Screenshot (4).png")
+(C:\Users\Admin\Pictures\Screenshots\Screenshot (4).pnG)
 
 ## Table of Contents
 
